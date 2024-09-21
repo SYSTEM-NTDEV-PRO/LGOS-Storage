@@ -1,4 +1,4 @@
-# [LGOS-Storge](#)
+# [LGOS-Storage](#)
 # <code>LGOS储蓄仓库</code>
 
 你好，我认为你找错网站了。这只是一个储蓄库~
